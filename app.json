@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "OBIOMA Daily Quotes and Inspiration",
+    "slug": "obioma-daily-quotes-and-inspiration",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#fff7ed"
+    },
+    "android": {
+      "package": "com.obioma.dailyquotes"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
